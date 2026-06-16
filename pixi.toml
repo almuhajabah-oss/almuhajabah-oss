@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Laura P. <almuhajabah@gmail.com>"]
+channels = ["conda-forge"]
+name = "almuhajabah-oss"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
